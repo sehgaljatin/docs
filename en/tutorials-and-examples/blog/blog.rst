@@ -181,7 +181,7 @@ can successfully connect to the database.
     A copy of CakePHP's default configuration file is found in
     **config/app.default.php**.
 
-Optional Configuration
+Optional Configurations
 ======================
 
 There are a few other items that can be configured. Most developers
